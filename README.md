@@ -1,3 +1,2 @@
 # BMED_3101
--this is a list item
-- this is a change
+- in class example
